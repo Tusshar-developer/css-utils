@@ -38,3 +38,15 @@
   background-color: #fff;
   color: #000;
 }
+
+.color-transparent {
+  color: transparent;
+}
+
+.color-white {
+  color: white;
+}
+
+.color-black {
+  color: black;
+}
