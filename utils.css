@@ -6,19 +6,27 @@
   padding: 0;
 }
 
+.m-1 {
+  margin: 1rem;
+}
+
+.p-1 {
+  padding: 1rem;
+}
+
 .bx-shadow-black {
-  box-shadow: 0px 10px 50px rgb(0, 0, 0, 0.7);
+  box-shadow: 0px 10px 50px rgb(0,0,0,0.7)
 }
 
 .bx-shadow-white {
-  box-shadow: 0px 10px 50px rgb(255, 255, 255);
+  box-shadow: 0px 10px 50px rgb(255,255,255)
 }
 
 .btn {
   padding: 5px;
   width: fit-content;
   font-family: sans-serif;
-  border-radius: 6px;
+  border-radius: 6px
 }
 
 .btn-dark {
