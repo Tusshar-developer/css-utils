@@ -1,7 +1,7 @@
 # css-utils
 This is a repo for a .css file that contains helpful css code. Feel free to use this file by dowloading it or using the link tag 
 ```
-<link rel="stylesheet" href="https://css-utils.netlify.app/utils.css"><link>
+<link rel="stylesheet" href="https://css-utils.netlify.app/utils.css">
 ```
 in your html head tag.
 
