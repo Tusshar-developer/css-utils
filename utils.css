@@ -128,22 +128,91 @@ p {
   font-size: xx-large;
 }
 
-.light-mode .footer-link {
+.light-mode a.footer-link {
   color: rgb(151, 151, 151);
   text-decoration: none;
 }
 
-.light-mode .footer-link:hover {
+.light-mode a.footer-link:hover {
   color: rgb(187, 187, 187);
   text-decoration: underline;
 }
 
-.dark-mode .footer-link {
+.dark-mode a.footer-link {
   color: rgb(209, 209, 209);
   text-decoration: none;
 }
 
-.dark-mode .footer-link:hover {
+.dark-mode a.footer-link:hover {
   color: rgb(131, 131, 131);
   text-decoration: underline;
+}
+
+.width-fit-content {
+  width: fit-content;
+}
+
+.height-fit-content {
+  height: fit-content;
+}
+
+.fit-content {
+  width: fit-content;
+  height: fit-content;
+}
+
+.center-align {
+  text-align: center;
+}
+
+.left-align {
+  text-align: left;
+}
+
+.right-align {
+  text-align: right;
+}
+
+.start-align {
+  text-align: start;
+}
+
+.end-align {
+  text-align: end;
+}
+
+.flex {
+  display: flex;
+}
+
+.inline {
+  display: inline;
+}
+
+.inline-flex {
+  display: inline-flex;
+}
+
+.inline-flex {
+  display: inline-flex;
+}
+
+.inline-flexbox {
+  display: inline-flexbox;
+}
+
+.inline-table {
+  display: inline-table;
+}
+
+.inline-block {
+  display: inline-block;
+}
+
+.black-background {
+  background-color: black;
+}
+
+.white-background {
+  background-color: white;
 }
